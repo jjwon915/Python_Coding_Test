@@ -22,5 +22,4 @@ for x in arr:
         max = tot
         res = x
 
-print(res
-      )
+print(res)
